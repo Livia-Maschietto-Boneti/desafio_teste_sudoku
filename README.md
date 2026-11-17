@@ -1,3 +1,4 @@
+Lívia Maschietto Boneti - 24000749-2 Maria Eduarda Bellarmino Duarte 24036202-2
 # 1. Introdução
 Esta atividade define e testa em JavaScript as regras de um Sudoku Binário de 6 × 6 casas. Os testes automatizados verificam o formato do tabuleiro, a distribuição dos zeros e uns, a ausência de sequências de três símbolos iguais e a unicidade de linhas e colunas.
 # 2. Regras de negócio
